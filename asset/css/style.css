@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mt16 {
+    margin: 0 16px !important;
+}
+
+#header{
+    width: 100%;
+    line-height: 50px;
+    background-color: #000;
+}
+
+#header a{
+    font-size: 40px;
+    text-decoration: none;
+    padding: 11px;
+    color: #fff;
+}
+
+#header a:hover{
+    color: #000;
+    background-color: #ccc;
+}
+
+.the-h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.cau-hoi{
+
+}
+
+.dap-an{
+    margin: 5px 0;
+    color: red;
+}
+
+.mon-ly a{
+    padding: 20px;
+}
